@@ -1,0 +1,19 @@
+
+1. Para generar un proyecto de backend necesitamos estos pasos:
+
+npm init
+significa iniciar un proyecto con node y respondemos a todas las preguntas,
+podemos cambiar los nombres de archivos.
+
+2. Creamos el archivo principal para la aplicación (index.js)
+
+3. Instalar las librerias necesarias para el proyecto: 
+
+npm install
+
+express: para el backend o logica
+mongoose: para conectar a la base de datos de mongo
+dotenv: para las variables de entorno
+
+Estas librerias son códigos para ciertos usos que se guardan en la carpeta
+node_modules
